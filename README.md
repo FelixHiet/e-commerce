@@ -1,6 +1,6 @@
 # E-commerce website: Supercarstore.js
 
-Test
+Almost finished e-commerce website. I made this website with a tutorial and was quite tough project. Since some code was old, I had to refactor code.
 
 # Getting Started with Create React App
 
