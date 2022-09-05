@@ -1,3 +1,7 @@
 .test {
   margin-bottom: 68px;
 }
+
+.floatRight {
+  float: right;
+}
