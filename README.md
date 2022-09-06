@@ -1,6 +1,6 @@
 # E-commerce website: Supercarstore.js
 
-Almost finished e-commerce website. I made this website with a tutorial and was quite tough project. Since some code was old, I had to refactor code.
+Almost finished e-commerce website. I made this website with a tutorial and was quite tough project. Since some code was old, I had to refactor code. You need React 17 or older, React 18 won't do.
 
 ![ecommercefrontpage](https://user-images.githubusercontent.com/49163212/188476238-e23d3e7f-e980-464e-a256-c7cbbee53af8.jpg)
 
