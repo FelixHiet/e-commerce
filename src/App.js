@@ -61,6 +61,7 @@ const App = () => {
       );
 
       setOrder(incomingOrder);
+
       refreshCart();
     } catch (error) {
       setErrorMessage(error.data.error.message);
@@ -120,4 +121,4 @@ export default App;
 
 */
 
-// !!!  > VIDEO 3:09:00 <  !!!
+// !!!  > VIDEO 3:17:00 <  !!!

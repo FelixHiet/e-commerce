@@ -5,6 +5,6 @@ export { default as Checkout } from "./CheckoutForm/Checkout/Checkout";
 
 /*
 
-to make imports look cleaner
+to make imports look cleaner in App.js
 
 */
