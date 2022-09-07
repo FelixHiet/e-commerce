@@ -2,7 +2,7 @@
 
 Almost finished e-commerce website. Lacks some styling on some parts, but most of the functional parts work. I made this website with a tutorial and was quite tough project. Since some code was old, I had to refactor code. You need React 17 or older, React 18 won't do.
 
-This React project uses commercejs as backend API, stripe and material ui.
+This React project uses stripe, material ui and commercejs as backend API.
 
 Test card is: 424242424242...
 
